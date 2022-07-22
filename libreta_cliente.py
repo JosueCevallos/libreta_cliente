@@ -3,7 +3,7 @@ import sqlite3
 from tkinter import *
 from tkinter import messagebox
 from tkinter import ttk
-from sqlite3 import *
+from sqlite3 import * 
 import emoji
 
 root = Tk()
