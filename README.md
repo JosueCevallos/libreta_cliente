@@ -5,3 +5,8 @@ CARACTERISTICAS DE LA APLICACION:
 
 * Permite crear, almacenar y borrar clientes
 * Usa la biblioteca sqlite3 para crear una base de datos donde se guardarán los clientes
+
+CAPTURAS DE PANTALLA:
+
+<img src="images/inicio.png">
+
