@@ -7,6 +7,9 @@ CARACTERISTICAS DE LA APLICACION:
 * Usa la biblioteca sqlite3 para crear una base de datos donde se guardarán los clientes
 
 CAPTURAS DE PANTALLA:
-
+* Inicio
 <img src="images/inicio.png">
+
+* Agregar nuevo cliente
+<img src="images/nuevo_cliente.png">
 
